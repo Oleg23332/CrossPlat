@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="Windows-1251" standalone="no"?>
+<list>
+    <point date="13.05.2018" x="5.0" y="3.0"/>
+    <point date="23.09.2030" x="2.0" y="1.0"/>
+    <point date="04.06.2019" x="1.5" y="2.0"/>
+    <point date="null" x="0.0" y="0.0"/>
+</list>
